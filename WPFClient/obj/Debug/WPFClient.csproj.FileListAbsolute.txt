@@ -1,0 +1,17 @@
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\WPFClient.exe.config
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\WPFClient.exe
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\WPFClient.pdb
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\Newtonsoft.Json.dll
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\bin\Debug\Newtonsoft.Json.xml
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.csprojResolveAssemblyReference.cache
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\MainWindow.baml
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\MainWindow.g.cs
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\App.g.cs
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.g.resources
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.Cache
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.exe
+D:\Using SignalR in WinForms and WPF\C#\WPFClient\obj\Debug\WPFClient.pdb
